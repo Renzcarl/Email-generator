@@ -25,11 +25,12 @@ $ pkg install git
 
 $ git clone https://github.com/Renzcarl/Email-generator
 
-$ cd Email-m rater
+$ cd Email-generator
 
 $ python fake data.py
 
 Username: CPPH2022
+
 Password: PYTHON123
 
 Thank you for using my tool!
