@@ -27,7 +27,10 @@ $ git clone https://github.com/Renzcarl/Email-generator
 
 $ cd Email-m rater
 
-$ python fake data.py.
+$ python fake data.py
+
+Username: CPPH2022
+Password: PYTHON123
 
 Thank you for using my tool!
 
