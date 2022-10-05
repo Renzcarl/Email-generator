@@ -37,7 +37,7 @@ UserName =input(" [*] USERNAME;\t")
 PassWord =input(" [*] PASSWORD;\t")
 
 
-if UserName == "CPPH2022" and PassWord == "BLU3N1N3S":
+if UserName == "CPPH2022" and PassWord == "PYTHON123":
     print(" Sucessfully logged in ")
         
 else:
