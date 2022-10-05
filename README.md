@@ -1,7 +1,7 @@
 # Email-generator
 Simple email generator to generate email and password to create account
 
-Installation
+# Installation
 
 $ apt update
 
@@ -31,10 +31,12 @@ $ python fake data.py.
 
 Thank you for using my tool!
 
-Credits to.
+# Credits 
 
+Credits to.
 Cyber Phoenix PH, Blackcats Cyber Squad
 Thank you for help me to finish this tool
 
-# Note: Don't recode my tool and make sure add credits for me if you want to modify my tool
+# Note:
+Don't recode my tool and make sure add credits for me if you want to modify my tool
 
