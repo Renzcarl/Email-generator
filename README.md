@@ -42,5 +42,5 @@ Cyber Phoenix PH, Blackcats Cyber Squad
 Thank you for help me to finish this tool
 
 # Note:
-Don't use my tool for bad thing's this is for  educational purposes only andke sure add credits for me if you want to modify my tool
+Don't use my tool for bad thing's this is for  educational purposes only and make sure add credits for me if you want to modify my tool
 
