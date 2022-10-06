@@ -1,3 +1,8 @@
+# Author: BLU3N1N3S
+# TOOL : Email Generator
+# DATE : 10/08/22
+# NOTE : if you want to modify my tool add credits for me 
+
 import time
 import os, sys
 from faker import Faker
@@ -7,18 +12,17 @@ colorama.init()
 
 os.system("clear")
 print(Fore.GREEN +"       ╔══════════════════════════════════════════╗ ")
-print(Fore.GREEN +"       ║                                                 ║ ")
+print(Fore.GREEN +"       ║                                          ║ ")
 print(Fore.GREEN +"       ║  ███████╗███╗░░░███╗░█████╗░██╗██╗░░░░░  ║ ")
 print(Fore.GREEN +"       ║  ██╔════╝████╗░████║██╔══██╗██║██║░░░░░  ║ ")
 print(Fore.GREEN +"       ║  █████╗░░██╔████╔██║███████║██║██║░░░░░  ║ ")
 print(Fore.GREEN +"       ║  ██╔══╝░░██║╚██╔╝██║██╔══██║██║██║░░░░░  ║ ")
 print(Fore.GREEN +"       ║  ███████╗██║░╚═╝░██║██║░░██║██║███████╗  ║ ")
 print(Fore.GREEN +"       ║  ╚══════╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚══════╝  ║ ")
-print(Fore.GREEN +"       ║                                                 ║ ")
-print(Fore.GREEN +"       ║            Created by BL3N1N3S                  ║ ")
-print(Fore.GREEN +"       ║                                                 ║ ")
+print(Fore.GREEN +"       ║                                          ║ ")
+print(Fore.GREEN +"       ║            Created by BL3N1N3S           ║ ")
+print(Fore.GREEN +"       ║                                          ║ ")
 print(Fore.GREEN +"       ╚══════════════════════════════════════════╝ ")
-
 print("\n════════════════════════════════════════════════════════════════ ")
 
 print("\nAuthor: BLU3N1N3S ")
@@ -37,7 +41,7 @@ UserName =input(" [*] USERNAME;\t")
 PassWord =input(" [*] PASSWORD;\t")
 
 
-if UserName == "CPPH2022" and PassWord == "BLU3N1N3S":
+if UserName == "CPPH2022" and PassWord == "PYTHON123":
     print(" Sucessfully logged in ")
         
 else:
