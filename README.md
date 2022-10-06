@@ -27,7 +27,7 @@ $ git clone https://github.com/Renzcarl/Email-generator
 
 $ cd Email-generator
 
-$ python fake data.py
+$ python Email-Generator.py
 
 Username: CPPH2022
 
@@ -42,5 +42,5 @@ Cyber Phoenix PH, Blackcats Cyber Squad
 Thank you for help me to finish this tool
 
 # Note:
-Don't recode my tool and make sure add credits for me if you want to modify my tool
+Don't use my tool for bad thing's this is for  educational purposes only andke sure add credits for me if you want to modify my tool
 
