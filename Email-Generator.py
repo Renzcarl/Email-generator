@@ -1,4 +1,4 @@
-# Author: BLU3N1N3S
+It# Author: BLU3N1N3S
 # TOOL : Email Generator
 # DATE : 10/08/22
 # NOTE : if you want to modify my tool add credits for me 
@@ -29,7 +29,7 @@ print("\nAuthor: BLU3N1N3S ")
 print("\nTool Name: Email generator ")
 print("\nFB group: Cyber Phoenix ")
 print("\nNote: this is for help purpose only ")
-print("\nCredits: (Cyber Poenix PH) (BlackCats cyber squad) ")
+print("\nCredits: (Cyber Phoenix PH) (BlackCats cyber squad) ")
 print("\nVersion: 0.1 ")
 
 print("\n════════════════════════════════════════════════════════════════\n")
@@ -68,7 +68,7 @@ print("\nAuthor: BLU3N1N3S ")
 print("\nTool Name: Email generator ")
 print("\nFB group: Cyber Phoenix ")
 print("\nNote: this is for help purpose only ")
-print("\nCredits: (Cyber Poenix PH) (BlackCats cyber squad) ")
+print("\nCredits: (Cyber Phoenix PH) (BlackCats cyber squad) ")
 print("\nVersion: 0.1 ")
 
 print("\n════════════════════════════════════════════════════════════════\n")
@@ -109,7 +109,7 @@ if Email == email_password:
     print("\nTool Name: Email generator ")
     print("\nFB group: Cyber Phoenix ")
     print("\nNote: this is for help purpose only ")
-    print("\nCredits: (Cyber Poenix PH) (BlackCats cyber squad) ")
+    print("\nCredits: (Cyber Phoenix PH) (BlackCats cyber squad) ")
     print("\nVersion: 0.1 ")
 
     print("\n════════════════════════════════════════════════════════════════\n")
@@ -179,7 +179,7 @@ if Email == view_fbpg:
     print("\nTool Name: Email generator ")
     print("\nFB group: Cyber Phoenix ")
     print("\nNote: this is for help purpose only ")
-    print("\nCredits: (Cyber Poenix PH) (BlackCats cyber squad) ")
+    print("\nCredits: (Cyber Phoenix PH) (BlackCats cyber squad) ")
     print("\nVersion: 0.1 ")
 
     print("\n════════════════════════════════════════════════════════════════\n")
