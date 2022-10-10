@@ -49,6 +49,7 @@ else:
     exit()
     
 time.sleep(3)
+os.system("clear")
 print(Fore.GREEN +"       ╔══════════════════════════════════════════╗ ")
 print(Fore.GREEN +"       ║                                          ║ ")
 print(Fore.GREEN +"       ║  ███████╗███╗░░░███╗░█████╗░██╗██╗░░░░░  ║ ")
