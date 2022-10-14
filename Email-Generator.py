@@ -1,4 +1,4 @@
-It# Author: BLU3N1N3S
+# Author: BLU3N1N3S
 # TOOL : Email Generator
 # DATE : 10/08/22
 # NOTE : if you want to modify my tool add credits for me 
